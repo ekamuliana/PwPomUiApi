@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e474e9e-bb14-42c3-8ba2-cebf147f806c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/TestExecutionReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arz/api/data/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arz/api/data/UserLombok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arz/ui/opencart/constant/AppConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arz/ui/opencart/factory/PlaywrightFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arz/ui/opencart/listeners/ExtentReportListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arz/ui/opencart/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arz/ui/opencart/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/api/booking/TokenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/api/booking/UpdateBookingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/api/tests/delete/DeleteUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/api/tests/get/APIDisposeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/api/tests/get/APIResponseHeadersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/api/tests/get/GetAPICallTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/api/tests/post/CreateUserWithJsonFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/api/tests/post/CreateUserWithPostFromPOJOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/api/tests/post/CreateUserWithPostTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/api/tests/put/UpdateUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/ui/opencart/HomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/ui/opencart/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arz/ui/opencart/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testRunners/testng_regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/arz/opencart/constant/AppConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/arz/opencart/factory/PlaywrightFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/arz/opencart/listeners/ExtentReportListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/arz/opencart/pages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/arz/opencart/pages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.arz.opencart.HomePageTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.arz.opencart.LoginPageTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/Surefire test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/arz/opencart/HomePageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/arz/opencart/LoginPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/arz/opencart/base/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testRunners/testng_regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/PwPomSeries.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/PwPomSeries.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Open Cart Test Regression PW Suite/Open Cart Home Page Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Open Cart Test Regression PW Suite/Open Cart Home Page Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Open Cart Test Regression PW Suite/Open Cart Login Page Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Open Cart Test Regression PW Suite/Open Cart Login Page Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Open Cart Test Regression PW Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.arz.opencart.HomePageTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.arz.opencart.LoginPageTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/PwPomSeries.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Open Cart Test Regression PW Suite/Open Cart Home Page Test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Open Cart Test Regression PW Suite/Open Cart Login Page Test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Open Cart Test Regression PW Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Open Cart Test Regression PW Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Open Cart Test Regression PW Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Open Cart Test Regression PW Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Open Cart Test Regression PW Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Open Cart Test Regression PW Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Open Cart Test Regression PW Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Open Cart Test Regression PW Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Open Cart Test Regression PW Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Open Cart Test Regression PW Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2sX6KYik29NLeTE9S4nnfZND9v7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/kazko/IdeaProjects/PwPomSeries/src/test/java/com/arz/api",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.arz.opencart.pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kazko\IdeaProjects\PwPomSeries\src\test\java\com\arz\api" />
+      <recent name="C:\Users\kazko\IdeaProjects\PwPomSeries\src\main\java\com\arz\api\data" />
+      <recent name="C:\Users\kazko\IdeaProjects\PwPomSeries\src\main\java\com\arz\opencart" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/kazko/IdeaProjects/PwPomSeries/src/test/resources/testRunners/testng_regression.xml">
+    <configuration name="C:/Users/kazko/IdeaProjects/PwPomSeries/src/test/resources/testRunners/testng_regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PwPomSeries" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testRunners/testng_regression.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PwPomSeries" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arz.opencart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.arz.opencart" />
+      <option name="MAIN_CLASS_NAME" value="com.arz.opencart.HomePageTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.homePageTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PwPomSeries" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arz.opencart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.arz.opencart" />
+      <option name="MAIN_CLASS_NAME" value="com.arz.opencart.HomePageTest" />
+      <option name="METHOD_NAME" value="homePageTitleTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PwPomSeries" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arz.opencart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.arz.opencart" />
+      <option name="MAIN_CLASS_NAME" value="com.arz.opencart.LoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.loginPageNavigationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PwPomSeries" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arz.opencart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.arz.opencart" />
+      <option name="MAIN_CLASS_NAME" value="com.arz.opencart.LoginPageTest" />
+      <option name="METHOD_NAME" value="loginPageNavigationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.HomePageTest" />
+      <item itemvalue="TestNG.C:/Users/kazko/IdeaProjects/PwPomSeries/src/test/resources/testRunners/testng_regression.xml" />
+      <item itemvalue="TestNG.HomePageTest.homePageTitleTest" />
+      <item itemvalue="TestNG.LoginPageTest" />
+      <item itemvalue="TestNG.LoginPageTest.loginPageNavigationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/kazko/IdeaProjects/PwPomSeries/src/test/resources/testRunners/testng_regression.xml" />
+        <item itemvalue="TestNG.LoginPageTest" />
+        <item itemvalue="TestNG.LoginPageTest.loginPageNavigationTest" />
+        <item itemvalue="TestNG.HomePageTest.homePageTitleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e474e9e-bb14-42c3-8ba2-cebf147f806c" name="Changes" comment="" />
+      <created>1738589508689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738589508689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.ThreadLocal" memberName="threadLocalHashCode" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
