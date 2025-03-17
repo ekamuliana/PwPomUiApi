@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [Open Cart Test Regression PW Suite]" guice-stage="DEVELOPMENT" verbose="4">
+  <listeners>
+    <listener class-name="com.arz.ui.opencart.listeners.ExtentReportListener"/>
+  </listeners>
+  <test thread-count="2" parallel="tests" name="Open Cart Login Page Test(failed)" verbose="4">
+    <classes>
+      <class name="com.arz.ui.opencart.LoginPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="forgotPasswordLinkExistTest"/>
+        </methods>
+      </class> <!-- com.arz.ui.opencart.LoginPageTest -->
+    </classes>
+  </test> <!-- Open Cart Login Page Test(failed) -->
+</suite> <!-- Failed suite [Open Cart Test Regression PW Suite] -->
